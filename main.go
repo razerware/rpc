@@ -1,7 +1,7 @@
 package main
 
 import (
-	"rpc/server"
+	"rpc_server/server"
 	"os"
 	"os/signal"
 	"fmt"
